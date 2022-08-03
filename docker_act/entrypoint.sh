@@ -2,6 +2,7 @@
 
 echo "Argument being passed: $1"
 # echo "Executing: pip install ms3==0.4.11"
+sudo easy_install pip
 pip install ms3==0.4.11
 echo "Executing: ms3 -h"
 ms3 -h
