@@ -1,4 +1,4 @@
-#!/bin/sh -l
+#!/bin/bash
 
 echo "Argument being passed: $1"
 # echo "Executing: pip install ms3==0.4.11"
