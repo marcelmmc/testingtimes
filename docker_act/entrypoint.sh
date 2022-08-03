@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# echo "Argument being passed: $1"
+echo "Argument being passed: $1"
 # # echo "Executing: pip install ms3==0.4.11"
 # # pip install ms3==0.4.11
 # echo "Executing: ms3 -h"
