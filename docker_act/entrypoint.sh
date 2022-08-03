@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Argument being passed: $1"
+# echo "Argument being passed: $1"
